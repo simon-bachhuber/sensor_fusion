@@ -2,7 +2,8 @@ asyncio
 multiprocessing
 atexit
 bleak
-numpy
+numpy==1.26.0
 qmt
 VQF
 matplotlib
+aioprocessing
